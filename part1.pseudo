@@ -1,0 +1,12 @@
+set num_years as integer = get input "Must be positive integer"
+set total_inches_rainfall = 0
+set total_months = 0
+
+for year = 0 ; year < 12 ; year = year + 1
+   for month = 0 ; month < 12 ; month = month + 1
+      total_inches_rainfall = total_inches_rainfall + get input "inches of rainfall for month"
+
+
+output "Number of months:" + total_months
+output "Total inches of rainfall:" + total_inches_rainfall
+output "Average rainfall per month:" + total_inches_rainfall / (total_months)
