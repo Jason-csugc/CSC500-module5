@@ -2,22 +2,34 @@
 
 Output Part 1:
 
-Enter number of years:1
-Enter the inches of rainfall for year 1 month 1: 23 \
-Enter the inches of rainfall for year 1 month 2: 12 \
-Enter the inches of rainfall for year 1 month 3: 65 \
-Enter the inches of rainfall for year 1 month 4: 7 \
-Enter the inches of rainfall for year 1 month 5: 12 \
-Enter the inches of rainfall for year 1 month 6: 9 \
-Enter the inches of rainfall for year 1 month 7: 7 \
-Enter the inches of rainfall for year 1 month 8: 3 \
-Enter the inches of rainfall for year 1 month 9: 4 \
-Enter the inches of rainfall for year 1 month 10: 7 \
-Enter the inches of rainfall for year 1 month 11: 3 \
-Enter the inches of rainfall for year 1 month 12: 12 \
-Number of months: 12 \
-Total inches of rainfall: 164.00 \
-Average rainfall per month: 164.00
+Enter number of years:2 \
+Enter the inches of rainfall for month 1:2 \
+Enter the inches of rainfall for month 2:2 \
+Enter the inches of rainfall for month 3:2 \
+Enter the inches of rainfall for month 4:2 \
+Enter the inches of rainfall for month 5:2 \
+Enter the inches of rainfall for month 6:2 \
+Enter the inches of rainfall for month 7:2 \
+Enter the inches of rainfall for month 8:2 \
+Enter the inches of rainfall for month 9:2 \
+Enter the inches of rainfall for month 10:2 \
+Enter the inches of rainfall for month 11:2 \
+Enter the inches of rainfall for month 12:2 \
+Enter the inches of rainfall for month 1:2 \
+Enter the inches of rainfall for month 2:2 \
+Enter the inches of rainfall for month 3:2 \
+Enter the inches of rainfall for month 4:2 \
+Enter the inches of rainfall for month 5:2 \
+Enter the inches of rainfall for month 6:2 \
+Enter the inches of rainfall for month 7:2 \
+Enter the inches of rainfall for month 8:2 \
+Enter the inches of rainfall for month 9:2 \
+Enter the inches of rainfall for month 10:2 \
+Enter the inches of rainfall for month 11:2 \
+Enter the inches of rainfall for month 12:2 \
+Number of months: 24 \
+Total inches of rainfall: 48.00 \
+Average rainfall per month: 2.00
 
 Output Part 2:
 
